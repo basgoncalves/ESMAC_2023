@@ -1,0 +1,3 @@
+P01:
+	- Wrapping Gmax2_at_pelvis_r / l = from 0.35 to 0.2 
+	- Wrapping Gmax1_at_pelvis_l = from 0.35 to 0.2 
